@@ -1,0 +1,15 @@
+.personajes-jojo{
+    text-align: center;
+}
+.portada-jojo{
+    text-align: center;
+    margin-top: 100px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+    text-align: center;
+}
